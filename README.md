@@ -1,4 +1,4 @@
-<img src="https://yeetssite.github.io/dutch.png" />
+<img src="https://yeetssite.github.io/stuff/pics/dutch.png" />
 
 *For mangolovers across the globe*
 
